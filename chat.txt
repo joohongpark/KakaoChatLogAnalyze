@@ -1,0 +1,7 @@
+2016Y 11M 7D PM 1:05, profq : 오늘 저녁은 치킨 먹을까?
+2016Y 11M 7D PM 2:05, profq : 아 치킨 어제 먹었는데...
+2016Y 11M 7D PM 3:05, profq : 그럼 뭐 먹을래?
+2016Y 11M 7D PM 4:05, profq : 돈가스?
+2016Y 11M 7D PM 5:05, profq : 콜
+2016Y 11M 7D PM 1:05, profq : 그럼 내일 아침에는 치킨 먹자
+2016Y 11M 7D PM 2:05, profq : 싫어
